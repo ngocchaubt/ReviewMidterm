@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MidtermProject</string>
+    <string name="txtLogin">Login</string>
+    <string name="titleLoginUsername">Username:</string>
+    <string name="titleLoginUsernameHint">Enter your username</string>
+    <string name="titleLoginPassword">Password:</string>
+    <string name="titleLoginPasswordHint">Enter your password:</string>
+    <string name="titleSaveLoginInfo">Save Login Info</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="title_product">All products</string>
+    <string name="title_category">Category</string>
+    <string name="btnDelete">DELETE</string>
+    <string name="btnUpdate">UPDATE</string>
+    <string name="btnSave">SAVE</string>
+    <string name="titleProductId">Product Id:</string>
+    <string name="titleProductName">Product Name:</string>
+    <string name="titleProductPrice">Product Price:</string>
+</resources>
